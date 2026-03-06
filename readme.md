@@ -26,9 +26,8 @@ AI-assisted content adaptation and workflow integration.
 [View the Campaign Infographic](./Starbucks%20Campaign%20Infographic.png)
 
 ### Podcast & Video Adaptation  
-[Listen and Watch Here[(https://notebooklm.google.com/notebook/74c58e6d-4c83-4e5b-8368-6dbca37b983f) ]) 
+[Listen and Watch Here](https://notebooklm.google.com/notebook/74c58e6d-4c83-4e5b-8368-6dbca37b983f)
 ------------------------------------------------------------------------
-
 ## Skills Demonstrated
 
 -   Strategic brand analysis\
